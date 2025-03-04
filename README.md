@@ -6,5 +6,5 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=Seulmung2&theme=warm)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=Seulmung2&theme=dark) ![HoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoejun1208&show_icons=true&theme=buefy&include_all_commits=true)
+!seulmung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmfajddl&show_icons=true&theme=buefy&include_all_commits=true)
 

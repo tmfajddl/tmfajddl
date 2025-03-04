@@ -1,4 +1,4 @@
-## seulmung"s github♡ 👋
+## seulmung's github♡ ✨
 
 <!--
 **tmfajddl/tmfajddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

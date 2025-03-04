@@ -1,6 +1,7 @@
 ## seulmung's github🌱
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=seulmung's%20github&fontSize=90)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={seulmung}&theme=warm)
 
 **tmfajddl/tmfajddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

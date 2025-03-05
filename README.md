@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=seulmung's%20github&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B4B4&width=435&lines=Welcome+to+seulmung's+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7B4B4&width=435&lines=Welcome+to+seulmung's+github)](https://git.io/typing-svg)
 
 ![Image](https://github.com/user-attachments/assets/e79cec04-ccde-4b76-88e2-f7c09229abe6)
 
